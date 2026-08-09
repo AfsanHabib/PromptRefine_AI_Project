@@ -27,7 +27,7 @@ generated with AI assistance. Many errors and integration issues were encountere
 
 ## Why I Built This
 Large language models can produce very different results from small
-changes in prompt structure. I built Prompt Optimizer Studio to explore how an AI engineering application can combine:
+changes in prompt structure. I built PromptRefine to explore how an AI engineering application can combine:
 -   Python application logic
 -   Prompt engineering
 -   LLM APIs
@@ -147,7 +147,7 @@ improvement.
 ### 1. Clone the Repository
 
 ``` bash
-git clone <https://github.com/AfsanHabib/PromptRefine_AI_Project>
+git clone https://github.com/AfsanHabib/PromptRefine_AI_Project.git
 cd PromptRefine_AI_Project
 ```
 ### 2. Create a Virtual Environment
